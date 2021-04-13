@@ -61,7 +61,8 @@ class Ui_MainWindow(object):
         self.statusbar = QtWidgets.QStatusBar(MainWindow)
         self.statusbar.setObjectName("statusbar")
         MainWindow.setStatusBar(self.statusbar)
-        MainWindow.setWindowIcon(QtGui.QIcon("E:\Programowanie\Project\File_lister\QF_bold.bmp"))
+        path = os.path.dirname(__file__)
+        MainWindow.setWindowIcon(QtGui.QIcon(path+"\QF_bold.bmp"))
      
     #===================================================================================
     #======================= widżety GUI ===============================================
@@ -128,7 +129,7 @@ class Ui_MainWindow(object):
         self.logo = QtWidgets.QLabel(self.centralwidget)
         self.logo.setGeometry(QtCore.QRect(10, 320, 120, 120))
         self.logo.setText("")
-        self.logo.setPixmap(QtGui.QPixmap("QF_bold_gr.bmp"))
+        self.logo.setPixmap(QtGui.QPixmap(path+"\QF_bold_gr.bmp"))
         self.logo.setScaledContents(True)
 
         # sprawdzić
