@@ -13,7 +13,7 @@
 # Wersja 1.0 - tworzenie listy pików
 # Wersja 1.1 - dodano drukowanie listy
 # Wersja 1.2 - dodano automatyczne zapisywanie pliku lista.txt w listowanym katalogu 
-# ==================================================
+# ========================================
 # The program is to make life easier for people who don't know DOS commands or those who don't want to mess with the command line.
 # Exactly the DIR command *. * / W> list.txt,
 # which saves to the file 'list.txt' the names of all files from the current folder.
