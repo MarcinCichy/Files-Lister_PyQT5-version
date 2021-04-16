@@ -1,4 +1,4 @@
-# Files-Lister
+# Files-Lister_PyQt5 version
 # ==========================================================================================================================
 # Program ma ułatwić życie osobom, które nie znają poleceń DOSa lub tych, które nie chcą 'babrać' sie w linię poleceń.
 # Dokładnie chodzi o komendę DIR *.* /w >lista.txt,
