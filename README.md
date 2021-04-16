@@ -1,5 +1,5 @@
 # Files-Lister_PyQt5 version
-# ==========================================================================================================================
+# 
 # Program ma ułatwić życie osobom, które nie znają poleceń DOSa lub tych, które nie chcą 'babrać' sie w linię poleceń.
 # Dokładnie chodzi o komendę DIR *.* /w >lista.txt,
 # które zapisuje do pliku 'lista.txt' nazwy wszystkich plików z folderu, w którym aktualnie się znajdujemy. 
@@ -13,7 +13,7 @@
 # Wersja 1.0 - tworzenie listy pików
 # Wersja 1.1 - dodano drukowanie listy
 # Wersja 1.2 - dodano automatyczne zapisywanie pliku lista.txt w listowanym katalogu 
-# ==========================================================================================================================
+# ==================================================
 # The program is to make life easier for people who don't know DOS commands or those who don't want to mess with the command line.
 # Exactly the DIR command *. * / W> list.txt,
 # which saves to the file 'list.txt' the names of all files from the current folder.
@@ -27,4 +27,4 @@
 # Version 1.0 - creating a list of peaks
 # Version 1.1 - added list printing
 # Version 1.2 - added automatic saving of the list.txt file in the directory listed
-# ==========================================================================================================================
+# 
